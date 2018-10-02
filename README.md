@@ -1,6 +1,5 @@
 ## zabbix-spk
 
-Zabbix Synology spk for evansport models
+Zabbix Synology spk for 3.4.13 version
 
-It consists of Zabbix server, Zabbix proxy and Zabbix agent and uses the Synology supplied mysql/mariadb datbase server. Starting with version 3.0.2 it is possible to use encrypted communication between the Zabbix components.
-
+It consists of Zabbix server and Zabbix agent and uses the Synology supplied mysql/mariadb datbase server. 

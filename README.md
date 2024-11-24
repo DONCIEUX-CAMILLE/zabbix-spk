@@ -24,8 +24,8 @@ Big Hugs
 Camille
 
 
-https://www.zabbix.com/whats_new_6_4
-https://www.zabbix.com/documentation/6.4
+https://www.zabbix.com/whats_new_7_0
+https://www.zabbix.com/documentation/7.0
 
 
 
